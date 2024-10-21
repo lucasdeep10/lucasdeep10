@@ -44,4 +44,5 @@ No dudes en echar un vistazo a mis proyectos y contactarme si tienes alguna preg
 ![file_type_mongo_icon_130383 (1)](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/430326d3-aaff-4066-bd05-da5b28a76c66)
 ![bootstrap_plain_wordmark_logo_ic](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/49756218-afbb-498e-90c9-ccce191deae3)
 ![nodo-js (1)](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/f7f69e6b-4728-44f9-93a4-d57dfd584cf3)
+![sql-server](https://github.com/user-attachments/assets/bde80474-2bb8-4360-8eab-be2306d2b8d2)
 
