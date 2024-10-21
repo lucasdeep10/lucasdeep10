@@ -1,4 +1,5 @@
-![Agregar un título](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/c8e339a1-1b62-4c16-bf69-aa9fa106828b)
+![Lucas Ferreyra](https://github.com/user-attachments/assets/b480e136-c5f1-462a-bd8f-9ae55986d93d)
+
 
 
 ¡Hola! Soy Lucas 👋
