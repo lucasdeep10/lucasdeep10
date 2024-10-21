@@ -2,16 +2,19 @@
 
 
 ¡Hola! Soy Lucas 👋
-Soy un desarrollador fullstack apasionado por el código limpio y las soluciones creativas. Me encargo de trabajar con TypeScript, React, Node.js, y Express para crear aplicaciones web que sean intuitivas y fáciles de usar.
+Soy un desarrollador y técnico en soporte IT con más de 2 años de experiencia, especializado en soporte de nivel 3 y desarrollo web full stack. 
+Actualmente trabajo en soporte N3 en Nextbyn y tengo conocimientos en integraciones API, microservicios, seguridad informática y resolución avanzada de problemas técnicos. 
+Manejo tecnologías como Linux, Windows Server, React, Node.js y Postman, entre otras. 
+Estoy entusiasmado por la oportunidad de aportar mis habilidades y continuar creciendo profesionalmente en un entorno dinámico.
 
 
 Podes encontrar mi portafolio acá 🙋
 
-https://lucas-ferreyra.com/
+[https://lucas-ferreyra.com/](https://lucasdeep10.github.io/portfolio/)
 
 
 📧 Contacto
-Email: hi@lucas-ferreyra.com
+Email: lucasferreyra6991@gmail.com
 
 
 Linkedin: linkedin.com/in/lucas-ferreyra-bb205a206 
