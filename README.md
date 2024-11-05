@@ -18,7 +18,7 @@ Podes encontrar mi portafolio acá 🙋
 Email: lucasferreyra6991@gmail.com
 
 
-Linkedin: linkedin.com/in/lucas-ferreyra-bb205a206 
+Linkedin: [https://Lucas-Ferreyra/](linkedin.com/in/lucas-ferreyra-bb205a206) 
 
 
 Twitter: @lucasferreyra96
