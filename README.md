@@ -17,11 +17,12 @@ En curso: Estudiando inglés técnico e iniciando formación en .NET para backen
 🚀 ¿Qué estoy buscando?
 Actualmente estoy abierto a oportunidades remotas que me permitan seguir creciendo en el mundo del desarrollo y automatización. Me entusiasman los desafíos técnicos, las buenas prácticas y los entornos colaborativos.
 
-🌐 Portafolio
-📁 [https://lucas-ferreyra.com/](https://lucasdeep10.github.io/portfolio/)
+🌐 Portafolio [https://lucas-ferreyra.com/](https://lucasdeep10.github.io/portfolio/)
 
 📧 lucasferreyra6991@gmail.com
+
 🔗 LinkedIn : [https://Lucas-Ferreyra/](https://linkedin.com/in/lucas-ferreyra-bb205a206) 
+
 🐦 @lucasferreyra96
 
 
