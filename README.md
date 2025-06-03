@@ -2,26 +2,30 @@
 
 
 
-¡Hola! Soy Lucas 👋
-Soy un desarrollador y técnico en soporte IT con más de 2 años de experiencia, especializado en soporte de nivel 3 y desarrollo web full stack. 
-Actualmente trabajo en soporte N3 en Nextbyn y tengo conocimientos en integraciones API, microservicios, seguridad informática y resolución avanzada de problemas técnicos. 
-Manejo tecnologías como Linux, Windows Server, React, Node.js y Postman, entre otras. 
-Estoy entusiasmado por la oportunidad de aportar mis habilidades y continuar creciendo profesionalmente en un entorno dinámico.
+👋 ¡Hola! Soy Lucas Ferreyra
+Soy técnico en soporte IT y desarrollador con más de 2 años de experiencia en soporte Nivel 2 y Nivel 3, con foco en automatizaciones, integraciones API y desarrollo web.
+Actualmente me encuentro trabajando como especialista en automatizaciones para proyectos basados en herramientas como N8n, Make.com, y Bland.AI, integrando soluciones con CRM, APIs REST, flujos conversacionales y procesamiento de datos. También trabajo con herramientas como Postman, Swagger, y Zapier, validando flujos y asegurando su correcto funcionamiento.
+
+💻 Tecnologías y herramientas que manejo
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap
+Backend: Node.js, PHP, Firebase, MongoDB, SQL Server, MySQL
+Automatización y APIs: N8n, Make.com, Zapier, Postman, Swagger
+DevOps & Infraestructura: Linux, Windows Server, GitHub Actions
+Seguridad y soporte: Nivel 3, validaciones técnicas, documentación de errores, resolución avanzada
+En curso: Estudiando inglés técnico e iniciando formación en .NET para backend
+
+🚀 ¿Qué estoy buscando?
+Actualmente estoy abierto a oportunidades remotas que me permitan seguir creciendo en el mundo del desarrollo y automatización. Me entusiasman los desafíos técnicos, las buenas prácticas y los entornos colaborativos.
+
+🌐 Portafolio
+📁 [https://lucas-ferreyra.com/](https://lucasdeep10.github.io/portfolio/)
+
+📧 lucasferreyra6991@gmail.com
+🔗 LinkedIn : [https://Lucas-Ferreyra/](https://linkedin.com/in/lucas-ferreyra-bb205a206) 
+🐦 @lucasferreyra96
 
 
-Podes encontrar mi portafolio acá 🙋
 
-[https://lucas-ferreyra.com/](https://lucasdeep10.github.io/portfolio/)
-
-
-📧 Contacto
-Email: lucasferreyra6991@gmail.com
-
-
-Linkedin: [https://Lucas-Ferreyra/](https://linkedin.com/in/lucas-ferreyra-bb205a206) 
-
-
-Twitter: @lucasferreyra96
 
 
 🎉 ¡Gracias por visitar mi perfil de Github!
@@ -45,5 +49,3 @@ No dudes en echar un vistazo a mis proyectos y contactarme si tienes alguna preg
 ![bootstrap_plain_wordmark_logo_ic](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/49756218-afbb-498e-90c9-ccce191deae3)
 ![nodo-js (1)](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/f7f69e6b-4728-44f9-93a4-d57dfd584cf3)
 ![sql-server (1)](https://github.com/user-attachments/assets/3bf61866-c70a-4122-a9f3-31c23b466598)
-
-
