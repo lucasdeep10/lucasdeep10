@@ -50,7 +50,8 @@ No dudes en echar un vistazo a mis proyectos y contactarme si tienes alguna preg
 ![bootstrap_plain_wordmark_logo_ic](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/49756218-afbb-498e-90c9-ccce191deae3)
 ![nodo-js (1)](https://github.com/lucasdeep10/lucasdeep10/assets/88118566/f7f69e6b-4728-44f9-93a4-d57dfd584cf3)
 ![sql-server (1)](https://github.com/user-attachments/assets/3bf61866-c70a-4122-a9f3-31c23b466598)
-![ai](https://github.com/user-attachments/assets/edd9eb06-1c95-4714-86a0-bbc077545cba)
-![python](https://github.com/user-attachments/assets/9c18983c-90d3-4c58-9369-51dd0b4ddf1a)
+![ai (1)](https://github.com/user-attachments/assets/45607fcd-99a1-4da5-9399-b2f70eaef6e8)
+![python (1)](https://github.com/user-attachments/assets/da188821-cd23-4831-a312-b55d4eb93e69)
+
 
 
