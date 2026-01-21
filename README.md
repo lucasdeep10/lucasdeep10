@@ -2,27 +2,75 @@
 
 
 
-👋 ¡Hola! Soy Lucas Ferreyra
-Soy técnico en soporte IT y desarrollador con más de 2 años de experiencia en soporte Nivel 2 y Nivel 3, con foco en automatizaciones, integraciones API y desarrollo web.
-Actualmente me encuentro trabajando como especialista en automatizaciones para proyectos basados en herramientas como N8n, Make.com, y Bland.AI, integrando soluciones con CRM, APIs REST, flujos conversacionales y procesamiento de datos. También trabajo con herramientas como Postman, Swagger, y Zapier, validando flujos y asegurando su correcto funcionamiento.
+Técnico en Soporte IT L2/L3 y Especialista en Automatizaciones, con más de 3 años de experiencia trabajando con sistemas en producción, integraciones API y flujos de automatización.
+Mi perfil está orientado a la resolución de incidentes complejos en entornos SaaS, combinando soporte técnico avanzado, validación de APIs, análisis de datos y documentación clara para equipos de desarrollo y producto. Suelo desempeñarme como nexo entre soporte, desarrollo y negocio, ayudando a reducir fricción operativa y mejorar la estabilidad de los sistemas.
+Actualmente trabajo en proyectos de automatización e integración de agentes de IA, conectando CRMs, plataformas externas y flujos conversacionales mediante herramientas low-code y lógica personalizada.
 
-💻 Tecnologías y herramientas que manejo
-Frontend: HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap
-Backend: Node.js, PHP, Firebase, MongoDB, SQL Server, MySQL
-Automatización y APIs: N8n, Make.com, Zapier, Postman, Swagger
-DevOps & Infraestructura: Linux, Windows Server, GitHub Actions
-Seguridad y soporte: Nivel 3, validaciones técnicas, documentación de errores, resolución avanzada
-En curso: Estudiando inglés técnico e iniciando formación en .NET para backend
+## Áreas de experiencia
 
-🚀 ¿Qué estoy buscando?
-Actualmente estoy abierto a oportunidades remotas que me permitan seguir creciendo en el mundo del desarrollo y automatización. Me entusiasman los desafíos técnicos, las buenas prácticas y los entornos colaborativos.
+- Análisis y diagnóstico de incidentes en entornos productivos
+- Validación y debugging de APIs REST (Postman, logs, requests)
+- Diseño y mantenimiento de flujos de automatización
+- Documentación técnica clara para escalamiento a desarrollo
+- Optimización de procesos de soporte y reducción de tareas repetitivas
+
+---
+
+## Tecnologías y herramientas
+
+### Automatización e Integraciones
+
+- n8n
+- Make (Integromat)
+- Zapier
+- Webhooks y APIs REST
+
+### Backend y Datos
+
+- Node.js
+- PHP
+- SQL (MySQL, SQL Server)
+- MongoDB
+- Firebase
+
+### Frontend (para integraciones y paneles)
+
+- JavaScript
+- React.js
+- HTML / CSS
+- Tailwind / Bootstrap
+
+### Infraestructura y DevOps
+
+- Linux
+- Windows Server
+- GitHub
+- GitHub Actions (conceptos básicos de CI/CD)
+
+### QA y Soporte
+
+- Postman
+- Swagger
+- Análisis de logs
+- Reportes de bugs y documentación
+- Soporte técnico Nivel 2 y Nivel 3
+
+---
+
+## Enfoque actual
+
+- Automatización de procesos con integración de IA
+- Desarrollo de agentes conversacionales conectados a sistemas reales
+- Integraciones API entre múltiples plataformas
+- Mejora de estabilidad y observabilidad en producción
+- Inglés técnico (en formación)
+- Formación en backend (.NET en progreso)
 
 🌐 Portafolio [https://lucas-ferreyra.com/](https://lucasdeep10.github.io/portfolio/)
 
 📧 lucasferreyra6991@gmail.com
 
-🔗 LinkedIn : [https://Lucas-Ferreyra/](https://linkedin.com/in/lucas-ferreyra-bb205a206) 
-
+🔗 LinkedIn : [[https://Lucas-Ferreyra/](https://www.linkedin.com/in/lucas-ferreyra-es/)]
 🐦 @lucasferreyra96
 
 
